@@ -70,6 +70,10 @@ div.main div.left {
   padding-left: 5em;
 }
 
+div.main div.right {
+  margin-left: 0;
+}
+
 div.container-fluid a {
   text-decoration: none;
   color: #F9423A;

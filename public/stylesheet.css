@@ -51,10 +51,19 @@ div.container-fluid {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #47474F;
-  text-align: center;
   padding-bottom: 1em;
   box-shadow: 10px 10px 10px #000000;
+}
+
+div.main div.container {
+  color: #47474F;
+  text-align: left;
+  width: 60%;
+  padding: 0em 1em;
+}
+
+div.main div.col-md-6 h3 {
+  text-align: right;
 }
 
 div.container-fluid a {
@@ -66,22 +75,10 @@ div.container-fluid a:hover {
   color: #ffffff;
 }
 
-div.container-fluid h2::first-line {
+div.container-fluid h3::first-letter {
   font-weight: 800;
   color: #F9423A;
   font-size: 1.8em;
-}
-
-div.container-fluid.blue-line h2::first-line {
-  color: #008E97;
-}
-
-div.container-fluid.blue-line a {
-  color: #008E97;
-}
-
-div.container-fluid.blue-line a:hover {
-  color: #ffffff;
 }
 
 body {
@@ -90,10 +87,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-.container#other {
-  padding: 5em;
 }
 
 nav {
@@ -137,11 +130,3 @@ nav li a:visited:hover {
   color: #008E97;
   text-decoration: none;
 }
-
-/*
-#6699FF
-#2B2B2B
-#DE1B1B
-#F6F6F6
-#E9E581
-*/

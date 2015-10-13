@@ -76,6 +76,11 @@ div.main div.right {
   margin-left: 0;
 }
 
+div.main ul.experience {
+  margin-left: -2em;
+  padding-top: 1.5em;
+}
+
 div.container-fluid a {
   text-decoration: none;
   color: #F9423A;

@@ -45,6 +45,18 @@ nav a .glyphicon:hover:visited {
   color: #F9423A;
 }
 
+nav {
+  background: url(/images/wbg1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+nav i {
+  font-size: 1.3em;
+}
+
 div.container-fluid { 
   background: url(/images/wbg1.png) no-repeat center center fixed; 
   -webkit-background-size: cover;

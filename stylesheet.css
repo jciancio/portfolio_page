@@ -1,0 +1,132 @@
+* {
+  font-family: 'Open Sans', serif;
+}
+
+div.jumbotron {
+  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/bl_and_white.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: auto;
+}
+
+div.jumbotron .container {
+  text-align: center;
+  color: #ffffff;
+  padding-top: 3em;
+}
+
+div.jumbotron .container h1 {
+  border-bottom: 1px solid #ffffff;
+  display: inline-block;
+  padding: .2em;
+}
+
+div.jumbotron .container h3 { 
+  margin-bottom: 10px;
+  margin-top: -1px;
+}
+
+div.jumbotron img {
+  margin: 1em auto 0 auto;
+}
+
+nav .glyphicon {
+  color: #47474F;
+  font-size: 1.1em;
+}
+
+nav a .glyphicon:hover {
+  color: #008E97;
+}
+
+nav a .glyphicon:hover:visited {
+  color: #F9423A;
+}
+
+div.container-fluid { 
+  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/wbg1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-bottom: 1em;
+  box-shadow: 10px 10px 10px #000000;
+}
+
+div.main div.container {
+  color: #47474F;
+  text-align: left;
+  width: 60%;
+  padding: 0em 1em;
+}
+
+div.main div.col-md-6 h3 {
+  text-align: right;
+}
+
+div.container-fluid a {
+  text-decoration: none;
+  color: #F9423A;
+}
+
+div.container-fluid a:hover {
+  color: #ffffff;
+}
+
+div.container-fluid h3::first-letter {
+  font-weight: 800;
+  color: #F9423A;
+  font-size: 1.8em;
+}
+
+body {
+  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/bl_and_white.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+nav {
+  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/wbg1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.navbar-default #navbar-collapsible {
+  text-align: center;
+}
+
+ul.nav {
+  display: inline-block;
+  float: none;
+}
+
+div .navbar-collapse {
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  padding: 0em .8em;
+  font-size: 1.1em;
+}
+
+nav li a {
+  text-decoration: none;
+  color: #47474F;
+}
+
+nav li a:hover {
+  color: #F9423A;
+  text-decoration: none;
+}
+
+nav li a:visited:hover {
+  color: #008E97;
+  text-decoration: none;
+}

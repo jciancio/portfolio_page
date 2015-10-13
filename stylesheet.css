@@ -3,7 +3,7 @@
 }
 
 div.jumbotron {
-  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/bl_and_white.jpg) no-repeat center center fixed; 
+  background: url(/images/bl_and_white.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -46,7 +46,7 @@ nav a .glyphicon:hover:visited {
 }
 
 div.container-fluid { 
-  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/wbg1.png) no-repeat center center fixed; 
+  background: url(/images/wbg1.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -82,7 +82,7 @@ div.container-fluid h3::first-letter {
 }
 
 body {
-  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/bl_and_white.jpg) no-repeat center center fixed; 
+  background: url(/images/bl_and_white.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -90,7 +90,7 @@ body {
 }
 
 nav {
-  background: url(/Users/JoeCiancio/projects/src/portfolio_page/images/wbg1.png) no-repeat center center fixed; 
+  background: url(/images/wbg1.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

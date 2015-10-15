@@ -85,6 +85,14 @@ div.main ul.experience {
   margin-left: -2em;
 }
 
+div.main ul.skills {
+  margin-left: -2em;
+  list-style: none;
+}
+
+div.main ul.skills li {
+  display: inline-block;
+}
 
 body {
   background: url(/images/bl_and_white.jpg) no-repeat center center fixed; 

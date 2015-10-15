@@ -85,20 +85,6 @@ div.main ul.experience {
   margin-left: -2em;
 }
 
-div.container-fluid a {
-  text-decoration: none;
-  color: #F9423A;
-}
-
-div.container-fluid a:hover {
-  color: #ffffff;
-}
-
-div.container-fluid h3::first-letter {
-  font-weight: 800;
-  color: #F9423A;
-  font-size: 1.8em;
-}
 
 body {
   background: url(/images/bl_and_white.jpg) no-repeat center center fixed; 

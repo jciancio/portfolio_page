@@ -61,31 +61,30 @@ div.container-fluid {
 
 div.main div.container {
   color: #47474F;
-  text-align: left;
   width: 60%;
 }
 
-div.main div.col-md-6 h3 {
-  text-align: left;
-  padding-left: 2em;
-}
-
-div.main div.right {
-  margin-left: 0;
-  padding-top: 1em;
+div.main div.container.body {
+  text-align: center;
 }
 
 div.main ul.experience {
-  margin-left: -2em;
+  list-style: none;
 }
 
 div.main ul.skills {
   margin-left: -4em;
   list-style: none;
+  text-align: center;
 }
 
 div.main ul.skills li {
   display: inline-block;
+  padding-left: 1em;
+}
+
+div.title {
+  text-align: center;
 }
 
 body {

@@ -70,6 +70,8 @@ div.main div.container.body {
 
 div.main ul.experience {
   list-style: none;
+  text-align: center;
+  margin-left: -4em;
 }
 
 div.main ul.skills {
@@ -78,7 +80,7 @@ div.main ul.skills {
   text-align: center;
 }
 
-div.main ul.skills li {
+div.main ul.skills li, ul.experience li {
   display: inline-block;
   padding-left: 1em;
 }
@@ -122,17 +124,17 @@ nav li {
   font-size: 1.1em;
 }
 
-nav li a {
+nav li a, ul.experience li a {
   text-decoration: none;
   color: #47474F;
 }
 
-nav li a:hover {
+nav li a:hover, ul.experience li a:hover {
   color: #F9423A;
   text-decoration: none;
 }
 
-nav li a:visited:hover {
+nav li a:visited:hover, ul.experience li a:visited:hover {
   color: #008E97;
   text-decoration: none;
 }

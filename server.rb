@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  redirect '/portfolio_page.html'
+  File.read(File.join('public', 'portfolio_page.html'))
 end

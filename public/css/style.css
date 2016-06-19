@@ -13,3 +13,7 @@
 	font-size: inherit;
 }
 
+.navbar-avatar {
+  height: 2em;
+  border-radius: 33px;
+}
